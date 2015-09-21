@@ -18,5 +18,5 @@ follow the steps below....
 ##Code it!  
 Write a program that does the following steps:  
 1. Prompt the user to input their First and Last name and their mother's maiden name and the city where they where born.  
-2. Calculate their "Star Wars" name.
+2. Calculate their "Star Wars" name.  
 3. Print out their "Star Wars" name.
