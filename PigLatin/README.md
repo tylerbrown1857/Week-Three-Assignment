@@ -13,7 +13,7 @@ Write a program to the following specifications:
 >If a word begins with a vowel, append 'yay' to the end of the word.  
 >If a word begins in a consonant, remove the first letter and append it to the end of the word. Finally, append 'ay' to the end of the word.  
 
-
+ 
 Remember that you can *slice* a word with [ ]
 
 * Create a framework of comments for each step in the specification.  
