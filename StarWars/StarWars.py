@@ -1,8 +1,11 @@
 __author__ = "Tyler Brown"
+__program__ = "StarWarsName"
+__assignment__ = "WeekThreeLab"
 
 def main():
     x = 0
     while x != 1:
+        #recieve input
         first = input("Enter your first name: ")
         last = input("Enter your last name: ")
         mother = input("Enter your mother's maiden name: ")
