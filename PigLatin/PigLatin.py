@@ -8,6 +8,7 @@ def main():
     while x != 1:
         word = input("Enter an english word to translate: ")
 #len(str)
+#I added the capitol versions to the list to compare to
         vowels = "aeiouAEIOU"
         first = 'a'
 #tests first letter consonant
